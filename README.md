@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a student of SCU.
+- 👋 Hi, I’m a student.
 - 👀 I’m interested in computer and games.
 - 🌱 I’m currently learning ai and game develop.
 - 💞️ I’m looking to collaborate on github
